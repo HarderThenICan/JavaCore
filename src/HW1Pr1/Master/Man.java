@@ -1,9 +1,9 @@
-package HW1.Master;
+package HW1Pr1.Master;
 
-import HW1.Pack.Pool;
-import HW1.Pack.Track;
-import HW1.Skills.CanRun;
-import HW1.Skills.CanSwim;
+import HW1Pr1.Pack.Pool;
+import HW1Pr1.Pack.Track;
+import HW1Pr1.Skills.CanRun;
+import HW1Pr1.Skills.CanSwim;
 
 public class Man implements  CanSwim, CanRun {
     private double result;
