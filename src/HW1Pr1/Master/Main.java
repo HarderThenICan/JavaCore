@@ -1,9 +1,9 @@
-package HW1.Master;
+package HW1Pr1.Master;
 
-import HW1.Pack.Course;
-import HW1.Pack.CourseEntity;
-import HW1.Pack.Pool;
-import HW1.Pack.Track;
+import HW1Pr1.Pack.Course;
+import HW1Pr1.Pack.CourseEntity;
+import HW1Pr1.Pack.Pool;
+import HW1Pr1.Pack.Track;
 
 public class Main {
 
