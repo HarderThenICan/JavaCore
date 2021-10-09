@@ -1,4 +1,4 @@
-package HW1.Pack;
+package HW1Pr1.Pack;
 
 public class Course {
     CourseEntity[] courseArr;
